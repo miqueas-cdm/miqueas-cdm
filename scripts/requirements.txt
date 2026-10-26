@@ -1,2 +1,6 @@
-requests==2.32.3
-beautifulsoup4==4.12.3
+    pedidos==2.32.3
+    beautifulsoup4==4.12.3
+    almofada
+    numpy
+    opencv-python
+    ragem
